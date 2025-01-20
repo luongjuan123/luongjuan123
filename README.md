@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luong Chi Dung and I'm a 1st Vietnam-Japan University student, from Viet Nam</p>
+<p align="left">My name is Luong Chi Dung and I'm a 1st year Vietnam-Japan University student, from Viet Nam</p>
 
 ###
 
