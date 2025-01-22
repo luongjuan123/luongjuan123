@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luong Chi Dung and I'm a 1st Vietnam-Japan University student, from Viet Nam</p>
+<p align="left">My name is Luong Chi Dung and I'm a 1st year Vietnam-Japan University student, from Viet Nam</p>
 
 ### 
 <div align="center"> <img height="120" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftuyensinh.vnu.edu.vn%2Findex.php%2FHome%2Fnews%2FVJU&psig=AOvVaw1JHswF5356j-vVxmy-lXeA&ust=1737284283026000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjaoLWO_4oDFQAAAAAdAAAAABAE](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Logo_vju.svg#/media/T%E1%BA%ADp_tin:Logo_vju.svg"><img src="https://upload.wikimedia.org/wikipedia/vi/a/a0/Logo_vju.svg" alt="Logo vju.svg" height="271" width="271"></a><br> <a rel="nofollow" class="external free" href="http://vju.vnu.edu.vn/"> <a href="https://vi.wikipedia.org/w/index.php?curid=19270594)"  /> </div> 
