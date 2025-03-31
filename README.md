@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dung and I'm a student from Vietnam-japan university</h2>
+<h2 align="left">Hi 👋! My name is Dung but you can call me Juan</h2>
 
 ###
 
