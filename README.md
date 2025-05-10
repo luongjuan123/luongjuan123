@@ -37,7 +37,7 @@
 
 ### 📫 Contact
 
-- 💌 Feel free to reach out(LinkIn): [Luong Chi Dung](https://www.linkedin.com/in/d%C5%A9ng-l%C6%B0%C6%A1ng-b85134202/)
+- 💌 Feel free to reach out(LinkIn): **[Luong Chi Dung](https://www.linkedin.com/in/d%C5%A9ng-l%C6%B0%C6%A1ng-b85134202/)**
 
 ---
 
